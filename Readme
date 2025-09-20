@@ -1,0 +1,17 @@
+ ESP32S3 Sensor Gateway
+
+Projeto de hardware para leitura de sensores industriais 4–20 mA com ESP32-S3, LoRa, RS485, RTC e entradas isoladas.
+
+## Blocos Funcionais
+- 2 entradas analógicas isoladas (4–20 mA)
+- 4 entradas digitais isoladas
+- RTC DS3231
+- RS485 isolado
+- Módulo LoRa EBYTE E22-900T30D
+
+## Ferramentas
+- KiCad 7.0+
+- Footprints e símbolos personalizados incluídos
+
+## Autor
+github.com/gregbalb62
